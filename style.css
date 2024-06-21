@@ -77,7 +77,8 @@ strong {
   justify-content: center;
   align-items: center;
   height: 35vh; 
-  width: 100vw; 
+  width: 100vw;
+  overflow: hidden; 
 }
 
 #fototwo img {
